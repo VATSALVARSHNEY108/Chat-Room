@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+PySocks==1.7.1
+PyQtWebEngine==5.15.9
+certifi==2024.6.2
